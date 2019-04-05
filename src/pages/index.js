@@ -17,8 +17,8 @@ const IndexPage = () => (
        <Link to="/page-4/">Design</Link>
        </div>
 
-        <div className="card3">
-       <Link to="/3/">Design111</Link>
+        <div className="card3">`
+       <Link to="/3/">Design33</Link>
         </div>
 
         <svg width="100%" height="172" viewBox="0 0 100% 172" fill="none">
