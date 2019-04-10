@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Tangyuan Design',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }

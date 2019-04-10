@@ -24,6 +24,7 @@ a{
   margin: 0 auto;
   padding: 150px 50px;
   text-align: center;
+
 }
 
 .Hero h1{
@@ -54,24 +55,46 @@ a{
   text-align: center;
   line-height: 150px;
   transition:1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  z-index: 2;
 }
 
 .Hero a:hover{
   background: rgba(255, 255, 255, 0.76);
   color: black;
   transform: translateY(-5px) scale(1.1);
-
 }
 
-
-
-.Hero svg{
+#svg1{
   position: absolute;
-  bottom: 0;
-  left: 0;
-  margin-bottom: 0px;
-  opacity: 0.1;
+  margin-left: -550px;
+  margin-top: -80px;
+  opacity: 0.3;
+  z-index: 0.1;
 }
+
+#svg2{
+  position: absolute;
+  margin-left: -400px;
+  margin-top: -62px;
+  opacity: 0.3;
+  z-index: 0.1;
+}
+
+#svg3{
+  position: absolute;
+  margin-left: -600px;
+  margin-top: -40px;
+  opacity: 0.1;
+  z-index: 0.1;
+}
+
+/* .Hero svg{
+  position: absolute;
+  margin-left: -500px;
+  opacity: 0.3;
+  z-index: 0.1;
+} */
+
 
 
 .card{
@@ -106,12 +129,6 @@ a{
 }
 
 
-.context{
-  /* position: absolute; */
-  /* margin-top:  */
-  /* height: 200px;
-  background-color: #cccccc; */
-}
 
 
 @keyframes HeroAnimation {
