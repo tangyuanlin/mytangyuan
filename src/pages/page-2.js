@@ -16,7 +16,13 @@ const SecondPage = () => (
             <h1 className="page2h1">Hi from the second page</h1>
             <p className="page2p">Welcome to page 2</p>
             <Link to="/">Go back to the homepage</Link>
-            <img className="img1" data-src={img1a} src={img1}></img>
+              
+              {/* 模糊加载测试 */}
+              <div className="progre">
+               <img className="img1" data-src={img1a} src={img1}></img>  
+              </div>
+                 {/* 模糊加载测试 */}
+            
             <img className="gif1" src={gif1}></img>
             <video className="video1" src={video1}  controls="controls" autoplay="play" loop="loop"></video>
 
