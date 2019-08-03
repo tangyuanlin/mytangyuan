@@ -1,0 +1,115 @@
+h1{
+    line-height:40px;
+    letter-spacing: 7px;
+}
+
+h3{
+    line-height:40px;
+    letter-spacing: 4px;
+}
+
+p{
+    font-size: 16px;
+    color: rgb(71, 71, 71);
+    line-height:40px;
+    letter-spacing: 4px;
+}
+
+
+.p3div1{
+   height: 3000px;
+   width: 100%;
+   background-color: rgb(255, 255, 255);
+   margin: 0 auto;
+}
+
+
+.t1{
+    position: relative;
+    top: 550px;
+    /* left: 200px; */
+    width: 65%;
+    height: 110px;
+    text-align: left;
+    padding-top: 46px;
+    padding-left: 150px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow:0px 10px 20px #8181816b;;
+    border-radius: 10px;
+}
+
+#titleh1{
+    position: absolute;
+    left: 60px;
+    top: 0px;
+    font-size: 80px;
+}
+
+#titleh2{
+    position: absolute;
+    font-size: 30px;
+    font-weight:350;
+    left: 160px;
+    top: 60px;
+}
+
+
+.p2imgbgc{
+    position: absolute;
+    width: 100%;
+    opacity: 1;
+}
+
+.zhengwen{
+    position: relative;
+    top: 590px;
+    width: 65%;
+    height: 1640px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.imgeye{
+    position: absolute;
+    width: 400px;
+    padding-top:30px; 
+}
+
+#pr{
+    position: absolute;
+    width: 800px;
+    left: 450px;
+    padding-top: 80px;
+
+}
+
+
+
+.back{
+    position: absolute;
+    bottom: 0px;
+}
+
+.back p{
+    width: 140px;
+    height: 50px; 
+    padding-top: 10px;
+    color: rgb(18, 14, 211);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow:0px 10px 20px #8181816b;
+    border-radius: 5px;
+}
+
+#erduan{
+    position: absolute;
+    padding-top: 500px;
+}
+
+#designLogic{
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color:rgb(216, 216, 216); 
+}

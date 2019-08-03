@@ -14,7 +14,7 @@ const IndexPage = () => (
        </div>
 
        <div className="card2">
-       <Link to="/page-4/">Design</Link>
+       <Link to="/page-3/">Design</Link>
        </div>
 
         <div className="card3">`
