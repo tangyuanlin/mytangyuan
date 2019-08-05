@@ -5,7 +5,7 @@ const IndexPage = () => (
 
   <div className="Hero">
     <div className="HeroGroup">
-        <h1>认知始于记忆  ,  终于意识</h1>
+        <h1>认知始于记忆,终于意识</h1>
        <p>Welcome to Tangyuan‘s website.</p>
        {/* <Link to="/page-2/">Go to page 2</Link> */}
 
