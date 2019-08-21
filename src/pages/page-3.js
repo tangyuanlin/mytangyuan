@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 import './Threepage.css'
 
 import designvalue from './pic/designvalue.jpeg'
+import designvalues from './pic/designvalues.png'
 import eye from './pic/eye.png'
 import designLogic from './pic/designLogic.png'
 
@@ -11,8 +12,10 @@ import designLogic from './pic/designLogic.png'
 const ThreePage = () => (
   <div className="p3div1">
 
+    <img className="p2imgbgcs" src={designvalues} ></img>   
     <img className="p2imgbgc" src={designvalue} ></img> 
     
+
     <div className="t1">
 
       <h1 id="titleh1">行</h1>

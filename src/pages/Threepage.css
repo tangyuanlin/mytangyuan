@@ -54,6 +54,11 @@ p{
     top: 60px;
 }
 
+.p2imgbgcs{
+    position: absolute;
+    width: 100%;
+    opacity: 1;
+}
 
 .p2imgbgc{
     position: absolute;
