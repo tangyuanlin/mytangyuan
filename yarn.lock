@@ -5949,9 +5949,9 @@ object-copy@^0.1.0:
     kind-of "^3.0.3"
 
 object-path@^0.11.2:
-  version "0.11.4"
-  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.4.tgz#370ae752fbf37de3ea70a861c23bba8915691949"
-  integrity sha1-NwrnUvvzfePqcKhhwju6iRVpGUk=
+  version "0.11.5"
+  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.5.tgz#d4e3cf19601a5140a55a16ad712019a9c50b577a"
+  integrity sha512-jgSbThcoR/s+XumvGMTMf81QVBmah+/Q7K7YduKeKVWL7N111unR2d6pZZarSk6kY/caeNxUDyxOvMWyzoU2eg==
 
 object-visit@^1.0.0:
   version "1.0.1"
@@ -7003,6 +7003,11 @@ process@~0.5.1:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/process/-/process-0.5.2.tgz#1638d8a8e34c2f440a91db95ab9aeb677fc185cf"
   integrity sha1-FjjYqONML0QKkduVq5rrZ3/Bhc8=
+
+progressive-image@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/progressive-image/-/progressive-image-1.2.0.tgz#83b696684cf552bc2643aba8b0fcc05b8fc1386d"
+  integrity sha512-7kXGqil/Yq1orBe9EoLVFvrjK2/fVtPDf0uC/wmCw+vML6XPkXTqZvNSiBLZEGfgo9WhIPrGZ591YC6a6ilLKA==
 
 promise-each@^2.2.0:
   version "2.2.0"
