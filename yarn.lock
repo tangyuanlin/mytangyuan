@@ -4185,9 +4185,9 @@ homedir-polyfill@^1.0.0, homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4, hosted-git-info@^2.5.0:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-comment-regex@^1.1.0:
   version "1.1.2"
@@ -7003,6 +7003,11 @@ process@~0.5.1:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/process/-/process-0.5.2.tgz#1638d8a8e34c2f440a91db95ab9aeb677fc185cf"
   integrity sha1-FjjYqONML0QKkduVq5rrZ3/Bhc8=
+
+progressive-image@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/progressive-image/-/progressive-image-1.2.0.tgz#83b696684cf552bc2643aba8b0fcc05b8fc1386d"
+  integrity sha512-7kXGqil/Yq1orBe9EoLVFvrjK2/fVtPDf0uC/wmCw+vML6XPkXTqZvNSiBLZEGfgo9WhIPrGZ591YC6a6ilLKA==
 
 promise-each@^2.2.0:
   version "2.2.0"
