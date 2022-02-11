@@ -1890,9 +1890,9 @@ chokidar@^1.0.0, chokidar@^1.7.0:
     fsevents "^1.0.0"
 
 chownr@^1.0.1, chownr@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.1.tgz#54726b8b8fff4df053c42187e801fb4412df1494"
-  integrity sha512-j38EvO5+LHX84jlo6h4UzmOwi0UgW61WRyPtJz4qaadK5eY3BTS5TY/S1Stc3Uk2lIM6TPevAlULiEJwie860g==
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.4.tgz#6fc9d7b42d32a583596337666e7d08084da2cc6b"
+  integrity sha512-jJ0bqzaylmJtVnNgzTeSOs8DPavpbYgEr/b0YL8/2GO3xJEhInFmhKMUnEJQjZumK7KXGFhUy89PrsJWlakBVg==
 
 chunk-manifest-webpack-plugin@0.1.0:
   version "0.1.0"
@@ -7003,6 +7003,11 @@ process@~0.5.1:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/process/-/process-0.5.2.tgz#1638d8a8e34c2f440a91db95ab9aeb677fc185cf"
   integrity sha1-FjjYqONML0QKkduVq5rrZ3/Bhc8=
+
+progressive-image@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/progressive-image/-/progressive-image-1.2.0.tgz#83b696684cf552bc2643aba8b0fcc05b8fc1386d"
+  integrity sha512-7kXGqil/Yq1orBe9EoLVFvrjK2/fVtPDf0uC/wmCw+vML6XPkXTqZvNSiBLZEGfgo9WhIPrGZ591YC6a6ilLKA==
 
 promise-each@^2.2.0:
   version "2.2.0"
